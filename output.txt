@@ -16,11 +16,10 @@ the month:January
 next date:2/1/2020
 1th day
 
-Enter the month(number),day and year in the given order
-12 31 2020
-date:31/12/2020
+12 31 1899
+date:31/12/1899
 number of days in given month:31
-Thursday
+Sunday
 the month:December
-next date:1/1/2020
-366th day
+next date:1/1/1900
+365th day
